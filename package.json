@@ -5,7 +5,7 @@
   "author": "gregory@dappuniversity.com",
   "homepage": "https://rene78.github.io/erc-721",
   "dependencies": {
-    "@openzeppelin/contracts": "^2.3.0",
+    "@openzeppelin/contracts": "^4.7.2",
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
     "babel-preset-es2015": "6.24.1",
